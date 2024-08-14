@@ -1,7 +1,8 @@
 # TE-analysis-for-multi-pathway-interaction
 
 This readme file will help replicate the results in the paper titled: "Disentangling coexisting sensory pathways of interaction in collective dynamics.”
-Directory “/Code/” contains all the codes required to replicate the results of this work.
+The directory “code” contains all the codes and the directory "data" contains the sample datasets required to replicate the results of this work. 
+
 The programs and functions are detailed below:
 ## “Analysis.m”:
 This MATLAB code processes the data and calculates transfer entropy (TE) and conditional TE for different delays between time series and plots all the relevant results of TE analysis for an airfoil-flag system coupled via two pathways of interaction (hydrodynamics + electromechanical). 
